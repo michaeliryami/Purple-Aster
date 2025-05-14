@@ -11,6 +11,7 @@ Purple Aster is a social media platform, where users can post their favorite ima
 - <b>Convex (database)</b>
 - <b>Clerk (Authentication)</b>
 - <b>React-Native + Expo</b>
+- <b>Cursor (development environment)</b>
 
 
 
