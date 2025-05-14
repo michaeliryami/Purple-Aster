@@ -14,27 +14,28 @@ Purple Aster is a social media platform, where users can post their favorite ima
 
 
 
-<h2>Program walk-through:</h2>
+<h2>Program details:</h2>
 
 <p align="center">
-Launch the app and sign in: <br/>
-![Image](https://github.com/user-attachments/assets/a5f743bc-b3e3-4778-ae38-3a169f304fa2)<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Login Screen: <br /><br />
+<img src="https://github.com/user-attachments/assets/54cfabbf-14bc-4ee4-8f04-afa93a9d95d1"  height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a post: <br /><br />
+<img src="https://github.com/user-attachments/assets/39def0a3-43d2-42d1-a9fb-b759ffdc6381" height="20%" width="20%" alt="Disk Sanitization Steps"/>        
+<img src="https://github.com/user-attachments/assets/91e6b0a8-91fe-4c1d-ac3d-ba4608856ffb" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+View Posts:  <br/><br/>
+<img src="https://github.com/user-attachments/assets/6b4b6907-0df4-4501-9b08-eff3a328d016" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+Comment on a post:  <br/>
+<img src="https://github.com/user-attachments/assets/f0e22ffa-bbc1-4e65-9839-0fe3b7fb0531" height="20%" width="20%" alt="Disk Sanitization Steps"/>        
+<img src="https://github.com/user-attachments/assets/39160c93-3f4c-4206-8c68-20555eba10dd" height="20%" width="20%" alt="Disk Sanitization Steps"/><br />
 <br />
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
