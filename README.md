@@ -1,59 +1,50 @@
-<h1>Purple Aster</h1>
+# Welcome to your Expo app 👋
 
-<h2>Description</h2>
-Purple Aster is a social media platform, where users can post their favorite images. Users can engage with others' posts by liking, commenting, or bookmarking.
-<br />
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Get started
 
-<h2>Languages and Utilities Used</h2>
+1. Install dependencies
 
-- <b>TypeScript</b> 
-- <b>Convex (database)</b>
-- <b>Clerk (Authentication)</b>
-- <b>React-Native + Expo</b>
+   ```bash
+   npm install
+   ```
 
+2. Start the app
 
+   ```bash
+   npx expo start
+   ```
 
-<h2>Program details:</h2>
+In the output, you'll find options to open the app in a
 
-<p align="center">
-Login screen: <br /><br />
-<img src="https://github.com/user-attachments/assets/54cfabbf-14bc-4ee4-8f04-afa93a9d95d1"  height="20%" width="20%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Create a post: <br /><br />
-<img src="https://github.com/user-attachments/assets/39def0a3-43d2-42d1-a9fb-b759ffdc6381" height="20%" width="20%" alt="Disk Sanitization Steps"/>        
-<img src="https://github.com/user-attachments/assets/91e6b0a8-91fe-4c1d-ac3d-ba4608856ffb" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-<br />
-<br />
-View posts:  <br/><br/>
-<img src="https://github.com/user-attachments/assets/6b4b6907-0df4-4501-9b08-eff3a328d016" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-<br />
-<br />
-Comment on a post: <br /><br />
-<img src="https://github.com/user-attachments/assets/f0e22ffa-bbc1-4e65-9839-0fe3b7fb0531" height="20%" width="20%" alt="Disk Sanitization Steps"/>        
-<img src="https://github.com/user-attachments/assets/39160c93-3f4c-4206-8c68-20555eba10dd" height="20%" width="20%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-View notifications:  <br/><br/>
-<img src="https://github.com/user-attachments/assets/dcf3403f-cc7c-4921-ab8e-e64a84ec321f" height="20%" width="20%" alt="Disk Sanitization Steps"/>    
-<br />
-<br />
-View bookmarks + refresh mechanic:  <br/><br />
-<img src="https://github.com/user-attachments/assets/21314096-8145-4052-b806-3db0753c086b" height="20%" width="20%" alt="Disk Sanitization Steps"/>        
-<img src="https://github.com/user-attachments/assets/80d1b9cf-0210-4753-a378-a3aacf123caf" height="20%" width="20%" alt="Disk Sanitization Steps"/><br />
-<br />
+## Get a fresh project
 
-</p>
+When you're ready, run:
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+```bash
+npm run reset-project
 ```
---!>
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
