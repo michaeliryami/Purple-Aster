@@ -18,8 +18,7 @@ Purple Aster is a social media platform, where users can post their favorite ima
 
 <p align="center">
 Launch the app and sign in: <br/>
-<img src="https://imgur.com/a/O8uPiW4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+![Image](https://github.com/user-attachments/assets/a5f743bc-b3e3-4778-ae38-3a169f304fa2)<br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
