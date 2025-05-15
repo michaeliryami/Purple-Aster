@@ -46,7 +46,9 @@ View bookmarks + refresh mechanic:  <br/><br />
 <img src="https://github.com/user-attachments/assets/21314096-8145-4052-b806-3db0753c086b" height="20%" width="20%" alt="Disk Sanitization Steps"/>        
 <img src="https://github.com/user-attachments/assets/80d1b9cf-0210-4753-a378-a3aacf123caf" height="20%" width="20%" alt="Disk Sanitization Steps"/><br />
 <br />
-
+<br />
+View user profile:  <br/><br/>
+<img src="https://github.com/user-attachments/assets/2ba932d2-65d7-4418-98dd-7c6d7f464674" height="20%" width="20%" alt="Disk Sanitization Steps"/>  
 </p>
 
 <!--
